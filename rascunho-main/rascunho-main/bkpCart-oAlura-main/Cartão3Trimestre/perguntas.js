@@ -1,15 +1,12 @@
 criaCartao(
-    //categoria,
     'Programação',
-    //pergunta,
-    'Oque é JavaScript',
-    //resposta,
-    'O JavaScript é uma linguagem de programação'
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
   
-    'Programação',
+    'Geografia',
     'Qual a capital da frança',
     'A capital da Framça é Paris'
 )
@@ -17,7 +14,7 @@ criaCartao(
 criaCartao(
     
     'Programação',
-    'Oque é uma função',
+    'Oque é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
